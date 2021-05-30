@@ -83,7 +83,7 @@ def registrar():
 
     return "Usuario registrado con éxito "
 
-
+# fin del proyecto
 
 if __name__ == '__main__':
     app.run(debug=True)
